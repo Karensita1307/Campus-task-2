@@ -1,5 +1,9 @@
 # Taller CampusTasks
 
+## Integrantes
+Karen Sofía López Botero 2459519
+Juan Esteban Pérez Ramírez 2459486
+
 ## Objetivo
 
 Este taller usa la implementación de **actualización y eliminación de tareas** en CampusTasks, verificando tanto el backend como el frontend. fileciteturn0file0L2-L8
